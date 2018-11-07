@@ -1,0 +1,8 @@
+
+The age calculator used to calculate age in years, months and date.
+
+This app basically developed from ionic framework which is open source which does not collect any personal data.
+
+Anyone can use this app for finding the difference between two dates such as years. months and dates.
+
+Does not collect or share any personal sensative information.
