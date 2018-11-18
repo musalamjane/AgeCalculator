@@ -5,7 +5,7 @@ Not only an age but also details calculation such as total months and dates sinc
 
 This app basically developed from ionic framework which is open source.
 
-Excllecnt user interface which will help you to calculate age whithin very short time.
+Excllent user interface which will help you to calculate age whithin very short time.
 
 User has options to enter the date via calendar or manual or both.
 
